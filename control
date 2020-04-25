@@ -1,0 +1,10 @@
+Package: com.imkpatil.longtimer
+Name: LongTimer
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make the timer run longer!
+Maintainer: Kiran Patil
+Author: Kiran Patil
+Section: Tweaks
+Depiction: https://imkpatil.github.io/repo/depiction/LongTimer/index.html
